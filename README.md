@@ -88,6 +88,3 @@ Inspirado no visual do **Softaculous**, ele oferece **backup automático, deploy
 - Autor: **Thales Da Vinci**
 - Licença: Comercial / Privada
 - Parte do ecossistema **[GIP Framework](https://github.com/thales-da-vinci/gip-framework)**
-
----
-
